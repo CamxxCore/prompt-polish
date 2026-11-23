@@ -1,0 +1,12 @@
+{
+  "name": "prompt-polish",
+  "version": "0.3.0",
+  "description": "Softens blunt prompts, underlines praise and asks for missing details before Claude reads them, with supportive and careful modes for important or hard work.",
+  "author": {
+    "name": "CamxxCore"
+  },
+  "homepage": "https://github.com/CamxxCore/prompt-polish",
+  "repository": "https://github.com/CamxxCore/prompt-polish",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

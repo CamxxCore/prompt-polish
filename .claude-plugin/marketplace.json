@@ -1,0 +1,13 @@
+{
+  "name": "prompt-polish",
+  "description": "prompt-polish: a Claude Code mod that softens blunt prompts, underlines praise and asks for missing details.",
+  "owner": {
+    "name": "CamxxCore"
+  },
+  "plugins": [
+    {
+      "name": "prompt-polish",
+      "source": "./"
+    }
+  ]
+}
